@@ -93,14 +93,17 @@ Future updates will focus on:
 ------------------------------
 
 1.  **Clone the Repository**:
+
     `git clone https://github.com/CodersAcademy006/FPL.git`
 
-2.  **Navigate to the Desired Folder**:
+3.  **Navigate to the Desired Folder**:
+
     `cd Arrays    # Example: Navigate to the Arrays folder`
 
-3.  **Compile and Execute**:
+4.  **Compile and Execute**:
+   
     `gcc filename.c -o output   # Compile the program
-    ./output                   # Run the compiled program`
+    ./output # Run the compiled program`
 
 * * * * *
 
