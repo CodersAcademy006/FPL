@@ -96,12 +96,13 @@ Future updates will focus on:
 
 3.  **Navigate to the Desired Folder**:
 
-    `cd Arrays    # Example: Navigate to the Arrays folder`
+    `cd Arrays # Example: Navigate to the Arrays folder`
 
 4.  **Compile and Execute**:
    
-    `gcc filename.c -o output   # Compile the program
-     ./output # Run the compiled program`
+    `gcc filename.c -o output   # Compile the program`
+    
+    `./output # Run the compiled program`
 
 * * * * *
 
