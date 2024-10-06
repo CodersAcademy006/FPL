@@ -93,27 +93,12 @@ Future updates will focus on:
 ------------------------------
 
 1.  **Clone the Repository**:
-
-    bash
-
-    Copy code
-
-    `git clone https://github.com/your-username/C-Programming-Project.git`
+    `git clone https://github.com/CodersAcademy006/FPL.git`
 
 2.  **Navigate to the Desired Folder**:
-
-    bash
-
-    Copy code
-
     `cd Arrays    # Example: Navigate to the Arrays folder`
 
 3.  **Compile and Execute**:
-
-    bash
-
-    Copy code
-
     `gcc filename.c -o output   # Compile the program
     ./output                   # Run the compiled program`
 
