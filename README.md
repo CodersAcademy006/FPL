@@ -1,6 +1,4 @@
-# FPL
-
-📚 C Programming Project Repository
+📚 Fundamentals Of Programming Language
 ===================================
 
 ### 🔰 **Project Overview**
@@ -103,7 +101,7 @@ Future updates will focus on:
 4.  **Compile and Execute**:
    
     `gcc filename.c -o output   # Compile the program
-    ./output # Run the compiled program`
+     ./output # Run the compiled program`
 
 * * * * *
 
@@ -112,4 +110,4 @@ Future updates will focus on:
 
 Contributions are welcome to help improve this project further. If you find any issues or have suggestions, feel free to reach out or create a pull request.
 
-For queries, contact **your-email@example.com**.
+For queries, contact **srjnupadhyay@gmail.com**.
